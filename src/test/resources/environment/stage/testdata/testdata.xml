@@ -1,0 +1,10 @@
+<testdata>
+    <someaccount>
+        <firstName>firstName</firstName>
+        <lastName>lastName</lastName>
+        <fullName>fullName</fullName>
+        <email>email</email>
+        <emailPassword>emailPassword</emailPassword>
+        <password>password</password>
+    </someaccount>
+</testdata>

@@ -1,0 +1,17 @@
+{
+  "chrome": [
+    {
+      "enableVNC": true
+    }
+  ],
+  "firefox": [
+    {
+      "enableVNC": true
+    }
+  ],
+  "iexplorer": [
+    {
+      "ignoreProtectedModeSettings": true
+    }
+  ]
+}
