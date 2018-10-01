@@ -6,6 +6,7 @@ import project.pages.StartPage;
 
 public class StartPageSteps {
 
+    public StartPage startPage1 = new StartPage();
     private StartPage startPage = new StartPage();
 
     @Then("^Start page is opened$")
